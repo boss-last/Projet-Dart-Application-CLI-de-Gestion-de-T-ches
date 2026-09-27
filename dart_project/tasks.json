@@ -1,0 +1,40 @@
+[
+  {
+    "id": "1",
+    "title": "Valider les exigences du sujet Dart CLI",
+    "priority": "high",
+    "dueDate": "2026-10-01T00:00:00.000",
+    "isCompleted": true,
+    "createdAt": "2026-09-27T10:00:00.000",
+    "taskType": "urgent",
+    "escalationReason": "Échéance d'évaluation académique"
+  },
+  {
+    "id": "2",
+    "title": "Implémenter le Repository générique et la persistance JSON",
+    "priority": "high",
+    "dueDate": "2026-10-05T00:00:00.000",
+    "isCompleted": false,
+    "createdAt": "2026-09-27T11:15:00.000",
+    "taskType": "urgent",
+    "escalationReason": "Exigence technique obligatoire (100 pts)"
+  },
+  {
+    "id": "3",
+    "title": "Rédiger les 5+ tests unitaires avec package test",
+    "priority": "medium",
+    "dueDate": "2026-10-10T00:00:00.000",
+    "isCompleted": false,
+    "createdAt": "2026-09-27T12:00:00.000",
+    "taskType": "standard"
+  },
+  {
+    "id": "4",
+    "title": "Créer le README détaillé avec les commandes",
+    "priority": "low",
+    "dueDate": null,
+    "isCompleted": false,
+    "createdAt": "2026-09-27T12:30:00.000",
+    "taskType": "standard"
+  }
+]

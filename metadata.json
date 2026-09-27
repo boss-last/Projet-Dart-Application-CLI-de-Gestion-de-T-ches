@@ -1,0 +1,6 @@
+{
+  "name": "Dart Task CLI — Gestionnaire de Tâches",
+  "description": "Application CLI complète en Dart pur avec POO avancée (classes abstraites, héritage), interfaces, génériques, persistance JSON et tests unitaires.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
